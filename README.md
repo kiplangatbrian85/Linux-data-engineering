@@ -1,74 +1,114 @@
-# \# Linux Fundamentals for Data Engineering
+\# Linux Fundamentals for Data Engineering
 
-# 
 
-# \## Author
 
-# Brian Kiplangat — LuxDevHQ Data Engineering Cohort 8
+\## Author
 
-# 
+Brian Kiplangat — LuxDevHQ Data Engineering Cohort 8
 
-# \## Server Details
 
-# \- Host: 159.65.222.96
 
-# \- Linux User: briank
+\---
 
-# \- Database: briank
 
-# \- Schema: staging
 
-# \- Table: staging.farmers
+\## Server Details
 
-# 
 
-# \## Tasks Completed
 
-# \- \[x] SSH server access on port 22
+\- Host       : 159.65.222.96
 
-# \- \[x] Linux user creation (briank)
+\- Linux User : briank
 
-# \- \[x] PostgreSQL setup and configuration
+\- Database   : briank
 
-# \- \[x] External connections enabled on port 5432
+\- Schema     : staging
 
-# \- \[x] Database and schema creation
+\- Table      : staging.farmers
 
-# \- \[x] Sample data inserted into staging.farmers
 
-# \- \[x] 25 Linux commands documented
 
-# \- \[x] SCP file transfers (local to server and server to local)
+\---
 
-# 
 
-# \## Repository Structure
 
-# \- commands/ — 25 Linux commands with explanations
+\## Tasks Completed
 
-# \- postgresql/ — Database setup steps and SQL files
 
-# \- screenshots/ — Screenshots of all commands and outputs
 
-# \- blog/ — Link to blog article
+\- \[x] SSH server access on port 22
 
-# 
+\- \[x] Linux user creation (briank)
 
-# \## Blog Article
+\- \[x] PostgreSQL setup and configuration
 
-# \[Linux Fundamentals for Data Engineering](https://dev.to/kiplangat\_brian/linux-fundamentals-for-data-engineering-5a9p)
+\- \[x] External connections enabled on port 5432
 
-# 
+\- \[x] Database and schema creation
 
-# \## Technologies Used
+\- \[x] Sample data inserted into staging.farmers
 
-# \- Ubuntu Linux
+\- \[x] 25 Linux commands documented
 
-# \- PostgreSQL 16
+\- \[x] SCP file transfers (local to server and server to local)
 
-# \- PostGIS
 
-# \- SSH / SCP
 
-# \- Git / GitHub
+\---
+
+
+
+\## Repository Structure
+
+
+
+\- commands/    — 25 Linux commands with explanations
+
+\- postgresql/  — Database setup steps and SQL files
+
+\- screenshots/ — Screenshots of all commands and outputs
+
+\- blog/        — Link to blog article
+
+
+
+\---
+
+
+
+\## Blog Article
+
+
+
+Linux Fundamentals for Data Engineering
+
+https://dev.to/kiplangat\_brian/linux-fundamentals-for-data-engineering-5a9p
+
+
+
+\---
+
+
+
+\## Technologies Used
+
+
+
+\- Ubuntu Linux
+
+\- PostgreSQL 16
+
+\- PostGIS
+
+\- SSH / SCP
+
+\- Git / GitHub
+
+
+
+\---
+
+
+
+\*LuxDevHQ Data Engineering Cohort 8 — Brian Kiplangat\*
 
