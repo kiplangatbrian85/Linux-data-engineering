@@ -1,7 +1,7 @@
 # Linux Fundamentals for Data Engineering
 
 ## Author
-Brian Kiplangat — LuxDevHQ Data Engineering Cohort 8
+Brian Kiplangat  LuxDevHQ Data Engineering Cohort 8
 
 ---
 
