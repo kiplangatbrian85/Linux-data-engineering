@@ -56,7 +56,7 @@
 
 # \## Blog Article
 
-# \[Linux Fundamentals for Data Engineering](your-blog-link-here)
+# \[Linux Fundamentals for Data Engineering](https://dev.to/kiplangat\_brian/linux-fundamentals-for-data-engineering-5a9p)
 
 # 
 
